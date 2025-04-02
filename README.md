@@ -1,11 +1,8 @@
-# Merhaba, Ben Kerem! 👋
-Bilgisayar mühendisliği ikinci sınıf öğrencisiyim ve Java, Python gibi dillerle projeler geliştiriyorum.  
-Ayrıca algoritmalar ve veri yapıları konularına ilgim var.
-Java tabanlı yazılım geliştirme yolculuğumu, Flutter’a geçiş yaparak iOS ve Android için native geliştirmeye yönlendirmeyi düşünüyorum.
+## Hello, I'm Kerem! 👋
+I'm a second-year Computer Engineering student, and I develop projects using languages like Java and Python.
+I also have a strong interest in algorithms and data structures. I am considering transitioning my software development journey from Java to Flutter to focus on native development for iOS and Android.
 
-## 🚀 Teknolojiler & Yeteneklerim  
-- 💻 Java, Python, 
-- 🔢 Algoritmalar   
-- 🛠️ Versiyon Kontrol (Git, GitHub)  
-
- 
+# 🚀 Technologies & Skills
+💻 Java, Python
+🔢 Algorithms
+🛠️ Version Control (Git, GitHub)
